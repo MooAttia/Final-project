@@ -448,3 +448,12 @@
 .blog-card:hover .blog-social{
     background-color: #0d6efd !important;
 }
+.brands-cards div{
+    margin: 10px 20px;
+    padding: 20px 50px ;
+    border: 2px solid gray;
+    border-radius: 5px;
+}
+.footer-info{
+    border-bottom: #0c65ed 2px solid;
+}
